@@ -90,14 +90,6 @@
     - Repository: `kedacore/keda`
     - Status: Merged
 
-23. **[Create e2e tests for Prometheus metrics](https://github.com/kedacore/keda/pull/4416)**
-    - Repository: `kedacore/keda`
-    - Status: Closed
-
-24. **[Master](https://github.com/Parthiba-Hazra/Auth-Go/pull/2)**
-    - Repository: `Parthiba-Hazra/Auth-Go`
-    - Status: Merged
-
 ## Opened Pull Requests
 
 1. **[[GSoC] feat : Add orphan checkpoint retention policy](https://github.com/checkpoint-restore/checkpoint-restore-operator/pull/28)**
